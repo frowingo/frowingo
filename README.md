@@ -115,4 +115,3 @@ Most of my recent public work is around `houseflowAPI`, `houseflowApp`, and smal
 <p>
   <a href="https://github.com/frowingo">GitHub</a>
 </p>
-
