@@ -1,59 +1,61 @@
 <h1 align="center">Emre Can Mece</h1>
 
 <p align="center">
-  Backend-focused developer building APIs, iOS experiences, and product experiments with a clean engineering mindset.
-</p>
-
-<p align="center">
-  <a href="https://github.com/frowingo?tab=repositories">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-frowingo-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/frowingo/houseflowAPI">
-    <img alt="Go APIs" src="https://img.shields.io/badge/Go-API%20Engineering-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  </a>
-  <a href="https://github.com/frowingo/houseflowApp">
-    <img alt="Swift iOS" src="https://img.shields.io/badge/Swift-iOS%20Apps-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  </a>
-  <a href="https://github.com/frowingo/timora">
-    <img alt=".NET" src="https://img.shields.io/badge/.NET-C%23%20Systems-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  </a>
+  .NET Core backend developer building production APIs, integrations, and service-oriented systems.
 </p>
 
 <br />
 
 <table>
   <tr>
-    <td width="55%">
-      <h3>What I build</h3>
+    <td width="60%">
+      <h3>👋 Short version</h3>
       <p>
-        I like turning product ideas into practical software: APIs that are easy to integrate,
-        mobile interfaces that feel direct, and small systems that are simple enough to maintain.
+        I work mostly on backend systems with C# and .NET Core: microservices, RESTful/XML
+        integrations, scheduled jobs, message-driven flows, and production support around
+        customer-specific projects.
       </p>
       <p>
-        My recent work moves between Go backend services, Swift/iOS apps, C#/.NET projects,
-        and documentation cleanup for public repositories.
+        Outside my full-time work, I keep improving with Go backend services, Swift/iOS apps,
+        and clean-architecture experiments that turn technical ideas into usable products.
       </p>
     </td>
-    <td width="45%">
-      <h3>Engineering taste</h3>
+    <td width="40%">
+      <h3>🧭 How I think</h3>
       <ul>
-        <li>Readable APIs before clever abstractions</li>
-        <li>Small, focused services and clear boundaries</li>
-        <li>Product-minded mobile and web flows</li>
-        <li>Documentation that explains the project fast</li>
+        <li>Make the core flow obvious</li>
+        <li>Keep API contracts predictable</li>
+        <li>Design around maintainable service boundaries</li>
+        <li>Take production issues seriously</li>
+        <li>Write docs that explain the point fast</li>
       </ul>
     </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img alt=".NET Core" src="https://img.shields.io/badge/.NET%20Core-Backend%20Systems-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-CQRS%20%2B%20Events-0969da?style=flat-square" />
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-Service%20Bus%20%2B%20DevOps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img alt="Go and Swift" src="https://img.shields.io/badge/Also-Go%20%2B%20Swift-2da44e?style=flat-square" />
+</p>
+
+---
+
+### Professional Focus
+
+<table>
+  <tr>
+    <td width="25%"><strong>⚙️ .NET Core</strong><br />Backend APIs, service logic, and full project lifecycle</td>
+    <td width="25%"><strong>🔌 Integrations</strong><br />RESTful and XML APIs for customer-specific systems</td>
+    <td width="25%"><strong>📬 Event-driven</strong><br />CQRS, messaging, Redis, and Azure Service Bus</td>
+    <td width="25%"><strong>🚀 Delivery</strong><br />Hangfire jobs, Azure DevOps CI/CD, Scrum teamwork</td>
   </tr>
 </table>
 
 ---
 
 ### Dashboard
-
-<p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=frowingo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frowingo&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
 
 <p align="center">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=frowingo&theme=github-dark-blue&hide_border=true&mode=weekly" />
@@ -115,33 +117,32 @@
 <table>
   <tr>
     <td width="33%">
-      <h4>Backend</h4>
+      <h4>Core Backend</h4>
       <p>
-        <img alt="Go" src="https://skillicons.dev/icons?i=go" />
         <img alt="Dotnet" src="https://skillicons.dev/icons?i=dotnet" />
         <img alt="C Sharp" src="https://skillicons.dev/icons?i=cs" />
+        <img alt="Azure" src="https://skillicons.dev/icons?i=azure" />
       </p>
-      <p>APIs, service structure, data flow, and application architecture.</p>
+      <p>.NET Core APIs, microservices, CQRS, event-driven flows, and production integrations.</p>
     </td>
     <td width="33%">
-      <h4>Product Interfaces</h4>
+      <h4>Growing Areas</h4>
       <p>
+        <img alt="Go" src="https://skillicons.dev/icons?i=go" />
         <img alt="Swift" src="https://skillicons.dev/icons?i=swift" />
         <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" />
-        <img alt="HTML" src="https://skillicons.dev/icons?i=html" />
-        <img alt="CSS" src="https://skillicons.dev/icons?i=css" />
       </p>
-      <p>iOS screens, web UI, widgets, and small polished product experiences.</p>
+      <p>Go backend services, Swift/iOS interfaces, and product-focused experiments.</p>
     </td>
     <td width="33%">
-      <h4>Data and Tools</h4>
+      <h4>Data and Messaging</h4>
       <p>
+        <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
         <img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />
-        <img alt="Azure" src="https://skillicons.dev/icons?i=azure" />
+        <img alt="Redis" src="https://skillicons.dev/icons?i=redis" />
         <img alt="Git" src="https://skillicons.dev/icons?i=git" />
-        <img alt="Python" src="https://skillicons.dev/icons?i=py" />
       </p>
-      <p>Databases, cloud basics, automation scripts, and repository hygiene.</p>
+      <p>PostgreSQL, MS SQL Server, MongoDB, Redis, Azure Service Bus, and CI/CD workflows.</p>
     </td>
   </tr>
 </table>
@@ -152,10 +153,10 @@
 
 <table>
   <tr>
-    <td width="25%"><strong>Houseflow</strong><br />Backend and iOS polish</td>
-    <td width="25%"><strong>Public repos</strong><br />Cleaner docs and structure</td>
-    <td width="25%"><strong>Go APIs</strong><br />Sharper service boundaries</td>
-    <td width="25%"><strong>Case studies</strong><br />Readable project narratives</td>
+    <td width="25%"><strong>.NET Core</strong><br />Production backend depth</td>
+    <td width="25%"><strong>Microservices</strong><br />Cleaner service boundaries</td>
+    <td width="25%"><strong>Go APIs</strong><br />Backend practice beyond C#</td>
+    <td width="25%"><strong>Public repos</strong><br />Readable project narratives</td>
   </tr>
 </table>
 
