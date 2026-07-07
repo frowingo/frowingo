@@ -56,10 +56,6 @@
 ### Dashboard
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=frowingo&theme=github-dark-blue&hide_border=true&mode=weekly" />
-</p>
-
-<p align="center">
   <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frowingo&theme=github_dark" />
 </p>
 
@@ -146,24 +142,3 @@
 </table>
 
 ---
-
-### Current Focus
-
-<table>
-  <tr>
-    <td width="25%"><strong>.NET Core</strong><br />Production backend depth</td>
-    <td width="25%"><strong>Microservices</strong><br />Cleaner service boundaries</td>
-    <td width="25%"><strong>Go APIs</strong><br />Backend practice beyond C#</td>
-    <td width="25%"><strong>Public repos</strong><br />Readable project narratives</td>
-  </tr>
-</table>
-
----
-
-### Connect
-
-<p>
-  <a href="https://github.com/frowingo">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
