@@ -9,7 +9,6 @@
 <table>
   <tr>
     <td width="60%">
-      <h3>👋 Short version</h3>
       <p>
         I work mostly on backend systems with C# and .NET Core: microservices, RESTful/XML
         integrations, scheduled jobs, message-driven flows, and production support around
@@ -21,7 +20,6 @@
       </p>
     </td>
     <td width="40%">
-      <h3>🧭 How I think</h3>
       <ul>
         <li>Make the core flow obvious</li>
         <li>Keep API contracts predictable</li>
